@@ -1,0 +1,11 @@
+body {
+    background-color: crimson;
+}
+
+ul {
+    display: flex;
+    gap: 2rem;
+}
+h1 {
+    size-adjust: 4px;
+}
